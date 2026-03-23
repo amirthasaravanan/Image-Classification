@@ -2,13 +2,12 @@
 
 ## AIM
 
-To Develop a convolutional deep neural network for image classification and to verify the response for new images.
-
+To develop a Convolutional Neural Network (CNN) for image classification and verify its performance on new/unseen images.
 ## Problem Statement and Dataset
 
-Image classification is a fundamental problem in computer vision, where the goal is to assign an input image to one of the predefined categories. Traditional machine learning models rely heavily on handcrafted features, whereas Convolutional Neural Networks (CNNs) automatically learn spatial features directly from pixel data.
+Image classification is a core problem in computer vision, where the goal is to assign an input image to one of several predefined categories. Unlike traditional machine learning methods that rely on handcrafted features, Convolutional Neural Networks (CNNs) automatically learn spatial features directly from pixel data.
 
-In this experiment, the task is to build a Convolutional Deep Neural Network (CNN) to classify images from the FashionMNIST dataset into their respective categories. The trained model will then be tested on new/unseen images to verify its effectiveness.
+In this experiment, the task is to build a CNN model to classify handwritten digits (0–9) using the MNIST dataset, which consists of grayscale images of digits. The trained model will then be tested on unseen images to evaluate its performance.the FashionMNIST dataset into their respective categories. The trained model will then be tested on new/unseen images to verify its effectiveness.
 
 ## Neural Network Model
 
