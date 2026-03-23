@@ -90,23 +90,22 @@ def train_model(model, train_loader, num_epochs=3):
 
 ## OUTPUT
 ### Training Loss per Epoch
-<img width="1680" height="60" alt="image" src="https://github.com/user-attachments/assets/c36cc69f-63b3-4709-9190-86a792da4cd7" />
-<img width="1691" height="61" alt="image" src="https://github.com/user-attachments/assets/6611f877-4449-4a83-bbfa-256d42877ad7" />
-<img width="1692" height="62" alt="image" src="https://github.com/user-attachments/assets/f959427e-fa3a-499d-a3de-b9918840c68e" />
+<img width="1744" height="190" alt="image" src="https://github.com/user-attachments/assets/4e90855e-2522-4722-ae3e-2d5f4941d679" />
 
 
 ### Confusion Matrix
 
-<img width="1688" height="790" alt="image" src="https://github.com/user-attachments/assets/14406a13-108a-4654-9966-6251ec7fa083" />
+<img width="1727" height="790" alt="image" src="https://github.com/user-attachments/assets/6974f2e6-63b1-4bcd-9d40-7f34608087c3" />
+
 
 
 ### Classification Report
 
-<img width="1680" height="396" alt="image" src="https://github.com/user-attachments/assets/836c774e-89d8-421a-a9f7-a2015c3fb077" />
+<img width="1730" height="417" alt="image" src="https://github.com/user-attachments/assets/ea396a15-5c0d-4a07-9166-ef8ab791aa4a" />
 
 
 ### New Sample Data Prediction
-<img width="1674" height="614" alt="image" src="https://github.com/user-attachments/assets/0999e180-d39e-4074-be55-c6a1da2e9252" />
+<img width="1743" height="608" alt="image" src="https://github.com/user-attachments/assets/c3fe1ba6-3435-4a71-be82-8d8af7f59995" />
 
 
  
